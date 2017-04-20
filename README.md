@@ -2,7 +2,8 @@
 
 The following code runs the algorithm from the paper:
 *Hyperplane folding - a way to increase the margin in Support Vector Machines
-*Lars Lundberg, Håkan Lennerstad, Eva Garcia-Martin, Niklas Lavesson and Veselka Boeva
+Lars Lundberg, Håkan Lennerstad, Eva Garcia-Martin, Niklas Lavesson and Veselka Boeva
+lars.lundberg@bth.se
 
 It does the following:
 1. Apply SVM in a dataset
